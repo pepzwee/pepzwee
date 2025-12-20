@@ -4,7 +4,7 @@ Scraping requires millions of proxies 🤔 contact me and I can hook you up.
 ### Projects I've made or have an active hand in helping
 - Steamapis.com (personal project)
 - DashSkins.com.br (helped launch and maintain)
-- Bandit.camp (helped with in-depth Rust pricing)
+- Bandit.camp (helped with in-depth Rust pricing and bot systems)
 - Rubra.com (helped with broad web scraping)
 - CSGODb.com (created and sold off due to lack of time)
 - And some projects that required scraping knowledge that I'd rather not disclose :)
